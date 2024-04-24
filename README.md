@@ -1,6 +1,5 @@
 # 👋 Hello, my name is Franco Congedo 🇦🇷:
-✨ Passionate about technology and programming.<br>💻 Computer Engineering student.<br>🦾 I'm currently enrolled in a bootcamp for DevOps Engineer and Codo a Codo Fullstack Java.
-#📄 Know about my experiences at 2022 [here](https://drive.google.com/file/d/18pXF8iT30x05Yt2EuY4_wDxBNJv1kNB6/view?usp=drive_links)
+✨ Passionate about technology and programming.<br>💻 Computer Engineering student.<br>🦾 I'm currently enrolled in a bootcamp for DevOps Engineer and Codo a Codo Fullstack Java.📄 Know about my experiences at 2022 [here(https://drive.google.com/file/d/18pXF8iT30x05Yt2EuY4_wDxBNJv1kNB6/view?usp=drive_links)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fcongedo92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/f.congedo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcongedo/) 
