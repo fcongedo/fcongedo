@@ -3,7 +3,7 @@
 💻 Computer Engineering student.<br>
 👨‍💻 I'm working at Eldar in DevOps & QA and tutoring in the DevOps Engineer bootcamp at Educación IT.<br>
 🦾 I'm currently enrolled in a bootcamp for DevOps Engineer and Codo a Codo Fullstack Java.<br>
-📄 Know about my experiences at 2024 [here](https://drive.google.com/file/d/18pXF8iT30x05Yt2EuY4_wDxBNJv1kNB6/view?usp=drive_links)
+📄 Know about my experiences at 2024 [here](https://drive.google.com/file/d/1kMRUPyXwF1p5WtSFQJLSfpJaQzWHkK7B/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/fcongedo92) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/f.congedo/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcongedo/) 
