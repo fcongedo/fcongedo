@@ -1,7 +1,7 @@
 # 👋 Hello, my name is Franco Congedo 🇦🇷:
 ✨ Passionate about technology and programming.<br>
 💻 Computer Engineering student.<br>
-👨‍💻 I'm working at Eldar in DevOps & QA and tutoring in the DevOps Engineer bootcamp at Educación IT.<br>
+👨‍💻 I'm working at LeArsoft as a Junior DevOps Engineer and tutoring in the DevOps Engineer bootcamp at Educación IT.<br>
 🦾 I'm currently enrolled in a bootcamp for DevOps Engineer and Codo a Codo Fullstack Java.<br>
 📄 Know about my experiences at 2024 [here](https://drive.google.com/file/d/1tJDbJFH_0HCdCPDnRfsSqEAq2iFJ1Z0_/view?usp=drive_link)
 
